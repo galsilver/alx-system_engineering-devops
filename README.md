@@ -19,3 +19,5 @@ A README.md file, at the root of the folder of this project, describing what eac
 You are not allowed to use backticks, &&, || or ;
 
 All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file. Later, we’ll learn more about how to utilize this command.
+
+this repo contains various shell basic directories 
